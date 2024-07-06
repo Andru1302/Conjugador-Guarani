@@ -12,7 +12,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-color: #00000; /* Color de fondo */
+        background-color: #77E843; /* Color de fondo */
     }
     .title-container {
         background-color: #f0f8ff; /* Color del recuadro del título */
